@@ -1,0 +1,17 @@
+.slider-container {
+    width: 300px;
+    margin: 50px;
+}
+
+.slider {
+    width: 100%;
+}
+
+.indicator {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    position: absolute;
+    top: 50px;
+    transform: translateX(-50%);
+}
